@@ -5,7 +5,7 @@ cli 模版
 
 
 - [x] git clone
-- [ ] 图片压缩
+- [x] 图片压缩
 - [x] 命令行图标 log-symbols
 - [x] 文字加样式 chalk
 - [x] 命令行美化 ora
